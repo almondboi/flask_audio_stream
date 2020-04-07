@@ -12,6 +12,7 @@ pip install -r requirements.txt
 This project depends on the follwing modules:
 
 pyaudio
+
 flask
 
 ## Usage
